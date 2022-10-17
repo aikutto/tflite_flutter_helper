@@ -19,7 +19,7 @@ dependencies:
       ref: master
   tuple: ^2.0.1
   camera: ^0.10.0+3
-  ffi: ^2.0.1
+  ffi: ^1.0.0
   image: ^3.2.2
 dev_dependencies:
   flutter_test:
